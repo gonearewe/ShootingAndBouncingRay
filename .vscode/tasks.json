@@ -1,0 +1,6 @@
+{
+
+    "type": "shell",
+    "command": "clang++"
+    
+}
